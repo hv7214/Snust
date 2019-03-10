@@ -1,7 +1,7 @@
 # Snust
 Snake game made on RUST.
 
-## Setting up
+## Setting up Snust
 
 ```md
 1. Run in Snust folder: $ cargo build
